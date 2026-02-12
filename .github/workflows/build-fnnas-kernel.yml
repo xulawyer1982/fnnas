@@ -18,7 +18,7 @@ on:
         options:
           - allwinner_619
           - amlogic_580
-          - rockchip_583
+          - rockchip_641
       debs_repo:
         description: "Set fnnas debs repository"
         required: false

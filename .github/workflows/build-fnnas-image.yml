@@ -17,7 +17,7 @@ on:
         options:
           - allwinner_619
           - amlogic_580
-          - rockchip_583
+          - rockchip_641
       fnnas_board:
         description: "Select fnnas device board"
         required: false
